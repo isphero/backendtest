@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "GameRealmAPI": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:32152;http://localhost:32153"
+    }
+  }
+}
